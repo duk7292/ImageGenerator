@@ -1,0 +1,8 @@
+CatImages/
+current_best_models/
+other/
+generated_images/
+saved_models/
+
+*.py
+!main.pdf
