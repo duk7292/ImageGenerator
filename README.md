@@ -1,4 +1,4 @@
-Image generator i made a while ago it was trained with a generator and discriminator.
+Image generator i made a while ago it was trained with a generator and discriminator on cat images.
 
 It worked to some degree but i got bored as training took to long.
 
